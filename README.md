@@ -20,7 +20,7 @@ Looksee requests AI-generated descriptions of image content and suggestions abou
 
 ## Quick start
 
-See [`DOWNLOAD_AND_RUN_IN_VSCODE.md`](Looksee_VS_Code_Project/DOWNLOAD_AND_RUN_IN_VSCODE.md) in the extracted package. Live image analysis requires your own OpenRouter API key in the private file `backend/.env`; do not commit or share that file. Provider requests may use your account’s quota.
+See [`DOWNLOAD_AND_RUN_IN_VSCODE.md`](DOWNLOAD_AND_RUN_IN_VSCODE.md) in this repository, or inside the downloaded source ZIP. Live image analysis requires your own OpenRouter API key in the private file `backend/.env`; do not commit or share that file. Provider requests may use your account’s quota.
 
 ## Share and attribution
 
